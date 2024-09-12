@@ -1,0 +1,29 @@
+body {
+    font-family: JetBrains Mono;
+    background-color: dimgray;
+}
+
+*{
+    color: white;
+}
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
+.yellow{
+    color: rgb(196, 196, 11);
+}
+
+h1{
+    font-size: 18px;
+    color: rgb(36, 187, 192);
+}
+
+p, li{
+    font-size: 14px;
+}
+
+.red{
+    color: red;
+}
